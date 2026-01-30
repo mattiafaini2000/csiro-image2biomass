@@ -1,0 +1,11 @@
+package,scope,purpose
+e1071,core,RBF epsilon support-vector regression with source scale setting
+mlr,tuning,Historical grouped resampling and tuning interface
+mlrMBO,tuning,Model-based optimization with expected improvement
+ParamHelpers,tuning,Log10-transformed cost gamma and epsilon search spaces
+DiceKriging,tuning,Gaussian-process surrogate dependency
+stats,R standard library,PCA prediction and variance
+utils,R standard library,CSV input and output
+caret,optional experiments,Species-stratified metadata baseline
+xgboost,optional experiments,Residual and component boosting variants
+keras3,optional experiments,Metadata CNN and supplied EfficientNet head constructors

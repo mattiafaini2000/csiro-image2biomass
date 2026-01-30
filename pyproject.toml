@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "csiro-biomass"
+version = "0.1.0"
+description = "Frozen image features for pasture-biomass regression"
+requires-python = ">=3.10"
+authors = [{name = "Mattia Faini"}]
+dependencies = ["numpy", "Pillow", "torch", "transformers"]
+
+[project.optional-dependencies]
+convnext = ["keras>=3", "tensorflow"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
