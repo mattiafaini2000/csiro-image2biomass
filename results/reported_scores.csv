@@ -1,0 +1,9 @@
+backbone,feature_mode,tile_count,public_r2,private_r2,status,source,source_location
+ConvNeXt-XLarge,whole,1,0.58,0.54,historical reported,Predicting Pasture Biomass from Images (supplied R Markdown report); competition report PDF,"leaderboard-results, report/report.Rmd lines1085-1119; PDF Appendix B Table A1"
+DINOv2 Large,whole,1,0.65,0.53,historical reported,Predicting Pasture Biomass from Images (supplied R Markdown report); competition report PDF,"leaderboard-results, report/report.Rmd lines1085-1119; PDF Appendix B Table A1"
+DINOv2 Large,tiled_mean,2,0.66,0.58,historical reported,Predicting Pasture Biomass from Images (supplied R Markdown report); competition report PDF,"leaderboard-results, report/report.Rmd lines1085-1119; PDF Appendix B Table A1"
+DINOv2 Large,tiled_mean,4,0.68,0.57,historical reported,Predicting Pasture Biomass from Images (supplied R Markdown report); competition report PDF,"leaderboard-results, report/report.Rmd lines1085-1119; PDF Appendix B Table A1"
+DINOv2 Large,tiled_mean,8,0.69,0.56,historical reported,Predicting Pasture Biomass from Images (supplied R Markdown report); competition report PDF,"leaderboard-results, report/report.Rmd lines1085-1119; PDF Appendix B Table A1"
+DINOv2 Large,tiled_mean,16,0.67,0.55,historical reported,Predicting Pasture Biomass from Images (supplied R Markdown report); competition report PDF,"leaderboard-results, report/report.Rmd lines1085-1119; PDF Appendix B Table A1"
+DINOv2 Giant,tiled_mean,8,0.70,0.54,historical reported,Predicting Pasture Biomass from Images (supplied R Markdown report); competition report PDF,"leaderboard-results, report/report.Rmd lines1085-1119; PDF Appendix B Table A1"
+DINOv2 Giant,tiled_stats,8,0.70,0.57,historical reported,Predicting Pasture Biomass from Images (supplied R Markdown report); competition report PDF,"leaderboard-results, report/report.Rmd lines1085-1119; PDF Appendix B Table A1"
